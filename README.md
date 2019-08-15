@@ -5,7 +5,9 @@ This spring boot react quickstart will give you a working spring boot react serv
 These instructions will get you a copy of the project up and running on your local machine for usage and testing purposes.
 
 ### Installing
-run the following commands:
+Have Node.js installed or you will have an error
+
+Run the following commands:
 
 ```
 $ git clone https://github.com/EricHe2000/spring-boot-react-quickstart/
